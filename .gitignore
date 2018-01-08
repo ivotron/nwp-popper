@@ -1,0 +1,3 @@
+.DS_store
+pipelines/*/popper_status
+pipelines/*/popper_logs
